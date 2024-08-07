@@ -40,7 +40,7 @@ $db->addServer(array (
   'user' => 'typecho',
   'password' => 'qwertyuiopAS123',
   'charset' => 'utf8mb4',
-  'port' => '3306',
+  'port' => '10155',
   'database' => 'typecho',
   'engine' => 'InnoDB',
 ), Typecho_Db::READ | Typecho_Db::WRITE);
